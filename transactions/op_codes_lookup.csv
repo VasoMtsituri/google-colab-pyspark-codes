@@ -1,0 +1,10 @@
+id,op_code,description
+0,GMB,expenses
+1,ISSTR,payments
+2,*PCC*,bank_fees
+3,MBSFE,expenses_misc
+4,MMS,incomes
+5,SMSC,other_fees
+6,*MBS*,expenses_other
+7,GIT,government_taxes
+8,GMN,expenses_payments
